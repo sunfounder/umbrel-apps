@@ -1,5 +1,6 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100%" viewBox="0 0 2304 2246" enable-background="new 0 0 2304 2246" xml:space="preserve">
+
+	 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<g transform="scale(0.1111)">
 <path fill="#FFFFFF" opacity="1.000000" stroke="none" 
 	d="
 M2.000000,832.000000 
@@ -22940,4 +22941,5 @@ M758.487427,652.021973
 	C758.825256,651.798279 759.165649,651.907532 759.506042,652.016785 
 	C759.167358,652.129517 758.828613,652.242249 758.487427,652.021973 
 z"/>
+</g>
 </svg>
