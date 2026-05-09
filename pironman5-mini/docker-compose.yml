@@ -2,7 +2,7 @@ version: "3.7"
 
 services:
   server:
-    image: sunfounder/pironman5:mini-1.3.10
+    image: sunfounder/pironman5:mini-1.3.10@sha256:082ee875c761c3da24fc5c3331349a1c90fa6ac42eab66c09658aab30c495b19
     restart: on-failure
     network_mode: host
     pid: host
