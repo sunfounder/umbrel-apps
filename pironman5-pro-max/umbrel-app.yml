@@ -2,7 +2,7 @@ manifestVersion: 1
 id: pironman5-pro-max
 category: automation
 name: Pironman 5 Pro Max
-version: "1.3.10"
+version: "1.3.11"
 tagline: Ultimate aluminum case with dual NVMe, touchscreen, speakers & RGB for Pi 5
 description: |-
   Premium aluminum chassis for Raspberry Pi 5 with dual NVMe slots, 4.3" touchscreen, 0.96" OLED, stereo speakers, and comprehensive RGB lighting.
